@@ -54,6 +54,8 @@ section {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    box-shadow: 0 1px 5px 1px #9999;
+    border-radius: 0 0 20px 20px;
 }
 
 .main h2 {
@@ -153,6 +155,7 @@ section {
 
 .projects {
     background-color: #000016;
+    border-radius: 20px;
 }
 
 .projects .content{
